@@ -27,7 +27,7 @@
                     .text {
                         text-align: center;
                         padding-top: 110px;
-                       
+
                         padding-bottom: 100%;
                         color: #FFFFFF;
                         font-family: 'Cairo';
@@ -229,7 +229,7 @@
 
 .container-1 {
     .row {
-    
+
         align-items: center;
 
         .menu {
@@ -262,7 +262,7 @@
                 width: max-content;
 
                 .text-2 {
-                    
+
                     animation: glow 1.5s infinite;
                     background: #510B76;
                     border: 2px solid #000000;
@@ -308,7 +308,6 @@
 }
 
 
-
 .green-1 {
 
     background-color: #0B760F !important;
@@ -317,9 +316,9 @@
 
 .color {
     background-color: #510B76;
+
+
 }
-
-
 
 @keyframes glow {
     0% {
@@ -336,14 +335,14 @@
 }
 
 @media (max-width: 768px) {
-    body{
-      width: 100%;
+    body {
+        width: 100%;
     }
-  }
+}
 
 
-  @media (max-width: 200px) {
-    body{
-      width: 100%;
+@media (max-width: 200px) {
+    body {
+        width: 100%;
     }
-  }
+}
